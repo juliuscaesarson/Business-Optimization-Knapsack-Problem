@@ -2,7 +2,7 @@ Business Optimization (Knapsack Problem)
 
 The knapsack problem offers a very simple question: If Indiana Jones' satchel can only carry C lbs of treasure and each treasure, i, has a weight of Wi and a monetary value of Vi, which items should Indy put into his bag to maximize profit while minimizing the weight of his satchel? 
 
-However, there is a small twist: You do not know the maximum weight, C, Indy can carry until you have selected the which items you want to put into his satchel. And if you happen to exceed C, you cannot keep any of the treasure. 
+However, there is a small twist: You do not know the maximum weight, C, Indy can carry until you have selected which items you want to put into his satchel. And if you happen to exceed C, you cannot keep any of the treasure. 
 
 In this case, C is a uniform random variable between 500 and 1000.
 
