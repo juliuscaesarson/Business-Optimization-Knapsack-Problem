@@ -9,3 +9,5 @@ In this case, C is a uniform random variable between 500 and 1000.
 For this problem, I used Monte Carlo simulation to not only determine the probability that my list of items will stay under the random weight limit C, but also which combination of items are worth the risk for the extra value.
 
 In the file Knapsack_Input.csv, there are 3 different instances of treasure to choose from. The first row of each instance contains the weight of each treasure item and the second row contains the value of said treasure item. 
+
+In the file Example_Solution.csv, there is now a new row called "decision" where "0" means we don't put the treasure in the bag and "1" means we do put the treasure in the bag.
