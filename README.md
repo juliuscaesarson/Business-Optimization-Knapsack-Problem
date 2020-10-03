@@ -4,7 +4,7 @@ The knapsack problem offers a very simple question: If Indiana Jones' satchel ca
 
 However, there is a small twist: You do not know the maximum weight, C, Indy can carry until you have selected which items you want to put into his satchel. And if you happen to exceed C, you cannot keep any of the treasure. 
 
-In this case, C is a uniform random variable between 500 and 1000.
+In this case, C is a uniform random number between 500 and 1000.
 
 For this problem, I used Monte Carlo simulation to not only determine the probability that my list of items will stay under the random weight limit C, but also which combination of items are worth the risk for the extra value.
 
